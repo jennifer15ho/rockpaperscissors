@@ -60,6 +60,6 @@ $("#shoot").click(function(){
         $("#userChoice").text("");
         $("#computerChoice").text("");
     }
-        
+    $("#input").val("");
 });
 
